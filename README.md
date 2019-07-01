@@ -7,4 +7,4 @@ wget http://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
 tar -xzvf cifar-10-python.tar.gz
 rm cifar-10-python.tar.gz
 
-The structure of the documents and data importing tools are borrowed from Stanford's CS231n: *Convolutional Neural Networks* class. 
+The structure of the documents and data importing tools (data_utils.py) are borrowed from Stanford's CS231n: *Convolutional Neural Networks* class assignments. 
